@@ -4,7 +4,7 @@
 * The following protocol highlights the individual steps taken to analyze all RNA-Seq libraries in this study, which includes those novel to this study and the Maize B73 Stepflug and Walley expression atlases.
 	
 * Version four of the Maize reference genome was used [(link to paper)](https://doi.org/10.1038/nature22971). This [genome fasta file](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_000005005.6_B73_RefGen_v4/GCA_000005005.6_B73_RefGen_v4_genomic.fna.gz) and this [gene model gff file](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_000005005.6_B73_RefGen_v4/GCA_000005005.6_B73_RefGen_v4_genomic.gff.gz) were used. 
-* The CAU Mo17 reference genome was used [(link to paper)](https://doi.org/10.1038/s41588-018-0182-0). This [genome fasta file](https://ftp.maizegdb.org/MaizeGDB/FTP/Mo17-CAU/Zm-Mo17-REFERENCE-CAU-1.0.fsa.gz) and this [gene model gff file](https://ftp.maizegdb.org/MaizeGDB/FTP/Mo17-CAU/Zm-Mo17-REFERENCE-CAU-1.0_mgdb.gff3.gz) were used. 
+* The CAU Mo17 reference genome was used [(link to paper)](https://doi.org/10.1038/s41588-018-0182-0). This [genome fasta file](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/185/045/GCA_003185045.1_Zm-Mo17-REFERENCE-CAU-1.0/GCA_003185045.1_Zm-Mo17-REFERENCE-CAU-1.0_genomic.fna.gz) and this [gene model gff file](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/185/045/GCA_003185045.1_Zm-Mo17-REFERENCE-CAU-1.0/GCA_003185045.1_Zm-Mo17-REFERENCE-CAU-1.0_genomic.gff.gz) were used. 
 * All genome files used were downloaded at the above links on 11/3/2018. 
 
 * The protocol is subdivided into four main sections:
